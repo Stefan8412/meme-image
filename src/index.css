@@ -33,6 +33,7 @@ main {
   display: grid;
   grid-template: 70px 70px /1fr 1fr;
   gap: 17px;
+  margin-bottom: 17px;
 }
 .form--input {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
