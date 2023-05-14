@@ -9,7 +9,7 @@ export default function Header() {
         alt="logo"
         width={35}
         height={35}
-        className="header--image"
+        className="header--img"
       />
       <h2 className="header--title">Meme-generator</h2>
       <h4 className="header--project">React Course - Project 3</h4>
